@@ -10,7 +10,7 @@ namespace Room_Detail_Generator
             double length;
             double width;
             double height;
-            string choice;
+            string choice = "";
             Boolean loopCondition = false;
 
             Console.WriteLine("Welcome to the room generator. Our measurements will be in inches.");
@@ -27,7 +27,17 @@ namespace Room_Detail_Generator
                 Console.WriteLine("Please enter your height");
                 height = Convert.ToDouble(Console.ReadLine());
 
-                loopCondition = true;
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine("Would you like to continue? input Y to go again, input N to exit program");
+                choice = Console.ReadLine();
+                if(choice == "y" || choice == "Y"){
+                    loopCondition = false;
+                    Console.ResetColor();
+                }
+                else{
+                    loopCondition = true;
+                    Console.ResetColor();
+                }
             }
 
             Console.WriteLine("Indication the loop was successfully broken");
