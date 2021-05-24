@@ -1,0 +1,16 @@
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\bin\Debug\net5.0\Room_Detail_Generator.exe
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\bin\Debug\net5.0\Room_Detail_Generator.deps.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\bin\Debug\net5.0\Room_Detail_Generator.runtimeconfig.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\bin\Debug\net5.0\Room_Detail_Generator.runtimeconfig.dev.json
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\bin\Debug\net5.0\Room_Detail_Generator.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\bin\Debug\net5.0\ref\Room_Detail_Generator.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\bin\Debug\net5.0\Room_Detail_Generator.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.csprojAssemblyReference.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.AssemblyInfoInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.AssemblyInfo.cs
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.csproj.CoreCompileInputs.cache
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\ref\Room_Detail_Generator.dll
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.pdb
+C:\Users\william.craft\Desktop\Personal information\Personal Growth\Mini-Code-Projects\C#-ProjectFolder\Room_Detail_Generator\obj\Debug\net5.0\Room_Detail_Generator.genruntimeconfig.cache
