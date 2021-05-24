@@ -51,7 +51,7 @@ namespace Room_Detail_Generator
                 }
             }
 
-            Console.WriteLine("Indication the loop was successfully broken");
+            Console.WriteLine("Thank you for playing, goodbye!");
         }
     }
 }
