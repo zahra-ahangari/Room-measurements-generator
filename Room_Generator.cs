@@ -10,6 +10,9 @@ namespace Room_Detail_Generator
             double length;
             double width;
             double height;
+            double area;
+            double perimeter;
+            double volume;
             string choice = "";
             Boolean loopCondition = false;
 
@@ -26,6 +29,14 @@ namespace Room_Detail_Generator
 
                 Console.WriteLine("Please enter your height");
                 height = Convert.ToDouble(Console.ReadLine());
+
+                area = length * width;
+                perimeter = (length * 2) + (width * 2);
+                volume = length * width * height;
+
+                Console.WriteLine("The area of your room is: " + area);
+                Console.WriteLine("The perimeter of your room is: " + perimeter);
+                Console.WriteLine("The volume of your room is: " + volume);
 
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Would you like to continue? input Y to go again, input N to exit program");
