@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace Room_Detail_Generator
 {
@@ -13,7 +13,7 @@ namespace Room_Detail_Generator
             double area;
             double perimeter;
             double volume;
-            string choice = "";
+            string? choice;
             Boolean loopCondition = false;
 
             Console.WriteLine("Welcome to the room generator. Our measurements will be in inches.");
@@ -43,7 +43,7 @@ namespace Room_Detail_Generator
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Would you like to continue? input Y to go again, input N to exit program");
                 choice = Console.ReadLine();
-                if(choice == "y" || choice == "Y"){
+                if((choice != null) & (choice == "y" || choice == "Y")){
                     loopCondition = false;
                     Console.ResetColor();
                 }
